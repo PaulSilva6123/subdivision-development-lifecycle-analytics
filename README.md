@@ -75,6 +75,11 @@ Analytical Techniques
 •	Master Data Management
 •	Operational Reporting
 
+---
+
+## Workflow Architecture
+
+![Workflow Diagram](Workglow_Diagram.png)
 
 ---
 
