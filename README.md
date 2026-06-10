@@ -6,6 +6,12 @@ Using Python, Excel, ArcGIS Online, and ArcGIS Dashboards, I developed an automa
 
 ---
 
+## Dashboard Overview
+
+![Dashboard Overview](images/dashboard-home.png)
+
+---
+
 ## Business Problem
 
 Subdivision development information was maintained across numerous Excel checklists with inconsistent naming conventions and no centralized method for tracking project status. Leadership lacked visibility into how many subdivisions were progressing through each stage of development and relied on manually compiled reports to understand development activity. In addition, repeated updates to subdivision checklists created challenges in maintaining continuity between operational records and GIS features. A solution was needed to consolidate disparate data sources, standardize reporting, automate status calculations, and provide stakeholders with a reliable view of the subdivision development pipeline.
