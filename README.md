@@ -8,7 +8,7 @@ Using Python, Excel, ArcGIS Online, and ArcGIS Dashboards, I developed an automa
 
 ## Dashboard Overview
 
-![Dashboard Overview](Subdivision Development Lifecycle Analytics and Workflow Automation for Water Utilities-Dashboard Home Page.png)
+![Dashboard Overview](dashboard-home.png)
 
 ---
 
