@@ -1,2 +1,32 @@
-# subdivision-development-lifecycle-analytics
-Automated subdivision tracking and GIS reporting system that transformed disconnected Excel checklists into an operational intelligence platform.
+# Subdivision Development Lifecycle Analytics and Workflow Automation for Water Utilities
+
+## Executive Summary
+
+PLACEHOLDER
+
+---
+
+## Business Problem
+
+PLACEHOLDER
+
+---
+
+## Methodology
+
+PLACEHOLDER
+
+---
+
+## Skills
+
+PLACEHOLDER
+
+---
+
+## Results & Business Recommendations
+
+PLACEHOLDER
+
+---
+
