@@ -79,7 +79,7 @@ Analytical Techniques
 
 ## Workflow Architecture
 
-![Workflow Diagram](Workflow Diagram.png)
+![Workflow Diagram](Workflow.png)
 
 ---
 
