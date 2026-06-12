@@ -29,7 +29,7 @@ Subdivision development information was maintained across numerous Excel checkli
 7.	Geocoded subdivision locations using checklist location information to support spatial reporting and visualization.
 8.	Developed a second Python workflow that synchronized cleaned records, calculated phase statuses, and related attributes to ArcGIS Online feature layers.
 9.	Automated both workflows using scheduled processes so that source data consolidation occurred first, followed by GIS synchronization and reporting updates.
-10.	Designed custom Arcade expressions to replicate the appearance and functionality of management's existing Excel checklists within ArcGIS Online pop-ups.## Custom Checklist Experience
+10.	Designed custom Arcade expressions to replicate the appearance and functionality of management's existing Excel checklists within ArcGIS Online pop-ups.
 
 ---
 
